@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(224, 190, 127);
+}
+.kutu1{
+    width: 500px;
+    height: 500px;
+    text-align: center;
+    margin: 200px 0 200px 650px;
+    background-color: rgb(216, 238, 231);
+    border-radius: 30px;
+    align-items: center;
+}
